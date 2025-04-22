@@ -1,0 +1,14 @@
+#maiores{
+    background-color: red;
+    font-weight: bold;
+    color: white;
+}
+#mundial{
+    color: yellow;
+    background-color: black;
+    font: 900;
+}
+#mundial li::marker {
+    color: purple;
+    font-size: 30px;
+}
